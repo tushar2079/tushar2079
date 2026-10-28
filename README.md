@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/tushar-danaraddi/">
+<a href="https://www.linkedin.com/in/tushardanaraddi/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:reddytushar9@gmail.com">
