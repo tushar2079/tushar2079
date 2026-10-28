@@ -1,57 +1,48 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080c,50:7c2d12,100:f97316&height=260&section=header&text=TUSHAR%20R.%20DANARADDI&fontSize=38&fontColor=FFFFFF&fontAlignY=32&desc=VLSI%20DESIGN%20%7C%20EMBEDDED%20SYSTEMS%20%7C%20IC%20DESIGN&descAlignY=52&descSize=16&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080c,50:7c2d12,100:f97316&height=250&section=header&text=TUSHAR%20R.%20DANARADDI&fontSize=36&fontColor=FFFFFF&fontAlignY=32&desc=VLSI%20DESIGN%20%7C%20IC%20DESIGN%20%7C%20EMBEDDED%20SYSTEMS&descAlignY=53&descSize=15&animation=fadeIn" width="100%"/>
 
 <img src="https://img.shields.io/badge/CAREER-ENTRY%20LEVEL-10B981?style=for-the-badge&labelColor=08080c"/>
-<img src="https://img.shields.io/badge/VLSI-DIGITAL%20DESIGN-F97316?style=for-the-badge&labelColor=08080c"/>
-<img src="https://img.shields.io/badge/EMBEDDED-SYSTEMS-7C3AED?style=for-the-badge&labelColor=08080c"/>
+<img src="https://img.shields.io/badge/DOMAIN-VLSI%20%26%20IC%20DESIGN-F97316?style=for-the-badge&labelColor=08080c"/>
+<img src="https://img.shields.io/badge/DOMAIN-EMBEDDED%20SYSTEMS-7C3AED?style=for-the-badge&labelColor=08080c"/>
 
 <br/><br/>
 
-<a href="#-about-me"><img src="https://img.shields.io/badge/ABOUT-08080c?style=for-the-badge"/></a>
-<a href="#-projects"><img src="https://img.shields.io/badge/PROJECTS-08080c?style=for-the-badge"/></a>
-<a href="#-technical-skills"><img src="https://img.shields.io/badge/SKILLS-08080c?style=for-the-badge"/></a>
-<a href="#-certifications--internships"><img src="https://img.shields.io/badge/CERTIFICATIONS-08080c?style=for-the-badge"/></a>
-<a href="#-education"><img src="https://img.shields.io/badge/EDUCATION-08080c?style=for-the-badge"/></a>
-<a href="#-contact"><img src="https://img.shields.io/badge/CONTACT-08080c?style=for-the-badge"/></a>
+<a href="#about-me"><img src="https://img.shields.io/badge/ABOUT_ME-08080c?style=for-the-badge"/></a>
+<a href="#projects"><img src="https://img.shields.io/badge/PROJECTS-08080c?style=for-the-badge"/></a>
+<a href="#technical-skills"><img src="https://img.shields.io/badge/SKILLS-08080c?style=for-the-badge"/></a>
+<a href="#certifications--training"><img src="https://img.shields.io/badge/TRAINING-08080c?style=for-the-badge"/></a>
+<a href="#education"><img src="https://img.shields.io/badge/EDUCATION-08080c?style=for-the-badge"/></a>
+<a href="#contact"><img src="https://img.shields.io/badge/CONTACT-08080c?style=for-the-badge"/></a>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/tushar-danaraddi">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:reddytushar9@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
-<br/>
+---
 
 ## 🧿 About Me
 
-Hello! I'm **Tushar R. Danaraddi**, an engineering graduate with an interest in **VLSI Design, IC Design, Embedded Systems, and semiconductor engineering**.
+Hello! I'm **Tushar R. Danaraddi**, an engineering graduate currently pursuing an **M.Tech in VLSI and Embedded Systems at PES University, Bengaluru**.
 
-My technical interests include analog and digital circuit design, IC layout using Cadence Virtuoso, DRC/LVS/PEX verification, RTL fundamentals, Verilog, and embedded-system development.
+I'm interested in semiconductor engineering, digital design, IC design, and embedded hardware development. My technical interests include RTL design using Verilog, CMOS circuit fundamentals, analog and digital electronics, circuit simulation, and hardware–software integration.
 
-I enjoy exploring hardware design, electronic systems, signal processing, and technology-driven solutions. Through academic projects and technical training, I aim to strengthen my engineering knowledge and develop practical skills relevant to the semiconductor and embedded-systems industries.
+Through academic projects and technical training, I aim to strengthen my practical engineering skills and develop reliable, efficient hardware solutions.
 
-I'm interested in entry-level opportunities where I can learn from experienced engineers, contribute to engineering projects, and grow in VLSI and embedded-system design.
+- 🎓 **Current Education:** M.Tech in VLSI and Embedded Systems
+- 🔬 **Core Interests:** VLSI Design, IC Design, RTL Design, and Embedded Systems
+- 💻 **Programming:** C, Python, and Verilog
+- 🛠️ **Design Tools:** Cadence Virtuoso, Xilinx Vivado, and MATLAB
+- 🎯 **Career Goal:** Entry-level opportunities in VLSI, semiconductor design, and embedded engineering
 
-<div align="center">
-
-| 🎓 Education | 💻 Programming | ⚙️ Technical Focus |
-|:---:|:---:|:---:|
-| **B.E. — 2025** | **C · Python · Verilog** | **VLSI & Embedded Systems** |
-| CGPA: 8.2 | Hardware & software fundamentals | IC design and circuit verification |
-
-</div>
-
-**🌐 Languages:** English · Kannada · Hindi · Telugu · Marathi
-
-**🎯 Career Interests:** VLSI Design · IC Design · RTL Design · Embedded Systems · Hardware Verification
-
-<br/>
+**Languages:** English · Kannada · Hindi · Telugu · Marathi
 
 ## 🚀 Projects
 
@@ -59,32 +50,32 @@ I'm interested in entry-level opportunities where I can learn from experienced e
 <tr>
 <td width="50%" valign="top">
 
-### 🐋 Underwater Whale Position Estimation
+### 🐋 Underwater Whale Detection & Position Estimation
 
-**TDOA & Cross-Correlation**
+**Hydrophone Signal Processing Using TDOA**
 
-An underwater acoustic localization project focused on estimating whale positions using Time Difference of Arrival (TDOA).
+An underwater acoustic signal-processing project focused on detecting whale vocalizations and estimating their positions using hydrophone signals.
 
-- Explores cross-correlation of hydrophone signals.
-- Focuses on estimating arrival-time differences.
-- Applies signal-processing concepts to underwater localization.
+- Explores cross-correlation for estimating time differences of arrival.
+- Applies TDOA-based methods for acoustic source localization.
+- Investigates whale-call classification using spectrograms and machine-learning techniques.
 
-**Technologies:** `Python` `Signal Processing` `TDOA` `Cross-Correlation`
+**Technologies:** `Python` · `MATLAB` · `Signal Processing` · `TDOA` · `CNN/LSTM`
 
 </td>
 <td width="50%" valign="top">
 
-### 🩺 Arya Vigil
+### 🩺 Arya Vigil — Smart Health & Safety Monitoring
 
-**Smart Health & Safety System Using mmWave**
+**Contactless Monitoring Using mmWave Technology**
 
-A smart health and safety system concept based on contactless mmWave sensing.
+A smart monitoring system concept that explores contactless sensing for health and safety applications.
 
-- Focuses on contactless sensor integration.
-- Explores edge AI for health and safety applications.
-- Includes smart home automation concepts.
+- Investigates mmWave sensing for detecting subtle body movements.
+- Explores edge processing and anomaly detection.
+- Considers applications in healthcare monitoring and smart environments.
 
-**Technologies:** `mmWave` `Edge AI` `Sensors` `Smart Automation`
+**Technologies:** `mmWave` · `ESP32` · `Edge AI` · `Sensors` · `Embedded Systems`
 
 </td>
 </tr>
@@ -93,77 +84,71 @@ A smart health and safety system concept based on contactless mmWave sensing.
 
 ### 🚗 Driver Drowsiness Detection
 
-**Raspberry Pi-Based System**
+**Raspberry Pi-Based Driver Safety System**
 
-A driver-safety project designed to identify drowsiness using eye-ratio analysis.
+An embedded computer-vision project designed to identify potential driver drowsiness using eye-related measurements.
 
-- Uses eye-related measurements as a drowsiness indicator.
-- Includes an alert mechanism for the driver.
-- Focuses on reducing risks associated with driver fatigue.
+- Uses eye-aspect-ratio analysis to help identify prolonged eye closure.
+- Explores real-time image processing.
+- Integrates an alert mechanism to warn the driver.
 
-**Technologies:** `Raspberry Pi` `Python` `Image Processing` `Embedded Systems`
+**Technologies:** `Python` · `Raspberry Pi` · `Image Processing` · `Embedded Systems`
 
 </td>
 <td width="50%" valign="top">
 
 ### 📡 Ground Radial Antenna Design
 
-**Design & Verification**
+**Electromagnetic Simulation Using CST**
 
-An antenna engineering project focused on design and performance evaluation through electromagnetic simulation and measurement.
+An antenna-design project focused on studying the performance of a ground radial antenna using electromagnetic simulation.
 
-- Studies radiation patterns and antenna gain.
-- Considers impedance matching.
-- Evaluates bandwidth and overall antenna performance.
+- Explores antenna radiation patterns and gain.
+- Studies impedance matching and radiation characteristics.
+- Evaluates the effect of radial configuration on antenna performance.
 
-**Technologies:** `Antenna Design` `Electromagnetics` `Simulation` `RF Fundamentals`
+**Technologies:** `CST Studio Suite` · `Antenna Design` · `RF Engineering` · `Electromagnetics`
 
 </td>
 </tr>
 </table>
 
-<br/>
-
 ## ⚡ Technical Skills
-
-<div align="center">
 
 ### 💻 Programming Languages
 
-`C` `Python` `Verilog`
+<p>
+<img src="https://skillicons.dev/icons?i=c,python" alt="C and Python"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=c,python"/>
+- C programming fundamentals
+- Python programming and data processing
+- Verilog HDL and RTL design fundamentals
 
-<br/>
+### 🔬 VLSI & IC Design
 
-### 🔬 VLSI & Digital Design
-
-`RTL Fundamentals` `Digital Circuit Design` `IC Design Fundamentals` `DRC` `LVS` `PEX`
+`Digital Logic Design` · `CMOS Fundamentals` · `RTL Design` · `Analog Circuit Fundamentals` · `DRC/LVS/PEX Concepts`
 
 ### 🧰 Design & Simulation Tools
 
-`Cadence Virtuoso` `MATLAB` `Multisim` `Xilinx Vivado`
+`Cadence Virtuoso` · `Xilinx Vivado` · `MATLAB` · `CST Studio Suite` · `Multisim`
 
 ### 🔌 Embedded Systems
 
-`Embedded Systems Fundamentals` `Raspberry Pi` `Hardware-Software Integration`
+`ESP32` · `Raspberry Pi` · `Sensor Integration` · `Hardware–Software Integration` · `Edge Computing Fundamentals`
 
 ### 📊 Productivity Tools
 
-`Microsoft Office`
+`Microsoft Office` · `Technical Documentation` · `Engineering Presentations`
 
-</div>
-
-<br/>
-
-## 🏅 Certifications & Internships
+## 🏅 Certifications & Training
 
 <details open>
 <summary><b>🔬 VLSI & Embedded Systems</b></summary>
 
 <br/>
 
-- **VLSI Design Engineer** — Rooman Technologies and IIT Guwahati, January 2025
+- **VLSI Design Engineer Training** — Rooman Technologies and IIT Guwahati, January 2025
 - **Embedded Systems Training** — Internshala Trainings, March 2025
 
 </details>
@@ -186,65 +171,53 @@ An antenna engineering project focused on design and performance evaluation thro
 
 </details>
 
-<br/>
-
 ## 🎓 Education
-
-<div align="center">
 
 | Year | Qualification | Institution | Result |
 |:---:|---|---|:---:|
-| 2027* | M.Tech | PES University, Bengaluru | Not specified |
+| 2027 (Expected) | M.Tech — VLSI and Embedded Systems | PES University, Bengaluru | Pursuing |
 | 2025 | B.E. | SKSVMA College of Engineering and Technology, Lakshmeshwar | CGPA: 8.2 |
 | 2021 | PUC | Narayana PU College, Bengaluru | 95.5% |
 | 2019 | SSLC | Shri Parshwanth English Medium School, Gadag | 88.8% |
 
-</div>
+## 🤝 Activities & Leadership
 
-<br/>
+- **Event Management:** Participated in event management for YUKTI-2024, a national-level technical event associated with VTU Belagavi.
+- **Workshop Organization:** Helped organize a PCB Design Workshop for students from regional colleges.
+- **Volunteering:** Contributed to technical and cultural events at SKSVMA College of Engineering and Technology.
 
-## 🤝 Activities & Personal Skills
+**Professional Strengths:** Problem-solving · Teamwork · Leadership · Time Management · Adaptability
 
-- **Event Management:** Participated as an event management member for YUKTI-2024, a national-level technical event associated with VTU Belagavi.
-- **Workshop Organization:** Organized a PCB Design Workshop for regional college students over ten days.
-- **Volunteering:** Volunteered at technical and cultural events at SKSVMA College of Engineering and Technology.
-- **Personal Skills:** Leadership, problem-solving, hard work, punctuality, and time management.
+## 🎯 Career Interests
 
-<br/>
+I'm interested in entry-level opportunities and internships in:
 
-## 🎯 Career Goals
+- **VLSI & IC Design**
+- **RTL Design & Verification**
+- **Digital Electronics & CMOS Design**
+- **Embedded Systems Engineering**
+- **Semiconductor Engineering**
 
-I'm looking forward to opportunities in:
-
-- VLSI and IC Design
-- RTL Design and Digital Electronics
-- Embedded Systems Engineering
-- Hardware Design and Verification
-- Semiconductor Engineering
-
-My goal is to build strong practical engineering skills, work on meaningful technical challenges, and contribute to the development of reliable electronic and semiconductor systems.
-
-<br/>
+My goal is to apply my academic knowledge to practical engineering challenges, continue learning industry-standard design tools, and contribute to the development of reliable electronic systems.
 
 ## 📬 Contact
 
 <div align="center">
 
-**Interested in VLSI, embedded systems, or semiconductor engineering? Let's connect!**
+**Let's connect and explore opportunities in VLSI, IC design, and embedded systems!**
 
 <br/>
 
 <a href="mailto:reddytushar9@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-REACH%20OUT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/tushar-danaraddi">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-📍 **Location:** Not specified in the source resume
+📍 **Location:** Bengaluru, India
 
 <br/><br/>
 
@@ -252,8 +225,6 @@ My goal is to build strong practical engineering skills, work on meaningful tech
 
 *Learning today. Engineering tomorrow.*
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:7c2d12,100:08080c&height=130&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:7c2d12,100:08080c&height=120&section=footer" width="100%"/>
 
 </div>
